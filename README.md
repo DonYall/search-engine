@@ -1,0 +1,1 @@
+Search engine with a built-in web crawler that looks through a network of pages specified by the user. Given a search query, it calculates the PageRank and search scores in order to rank pages based on their similarity to the search query.
